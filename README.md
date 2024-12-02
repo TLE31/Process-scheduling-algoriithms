@@ -28,10 +28,4 @@ The CPU Scheduling Simulator is a web-based application designed to help users u
 5. Click the "Solve" button to run the simulation.
 6. View the output table and Gantt chart to analyze the scheduling results.
 
-## Contributing
 
-Contributions are welcome! If you have any ideas for improvements or new features, feel free to open an issue or submit a pull request.
-
-## License
-
-This project is licensed under the MIT License.
